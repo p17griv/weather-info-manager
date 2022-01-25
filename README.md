@@ -4,7 +4,7 @@
 
 A student project for "Databases II" course of department of Informatics - Ionian University.
 
-Weather Info Manager is a desktop application made using Java and Swing GUI API that displays dump weather data recorded by various meteorological stations across USA. The app imports these data from CSV files into a MySQL database and executes queries depending on user's requests. The data is stored into three tables, "MET_STATION", "TEMPERATURE" and "WIND_INFO", as shown bellow.
+Weather Info Manager is a desktop application developed using Java and Swing GUI API that displays dump weather data recorded by various meteorological stations across USA. The app imports these data from CSV files into a MySQL database and executes queries depending on user's requests. The data is stored into three tables, "MET_STATION", "TEMPERATURE" and "WIND_INFO", as shown bellow.
 
 **MET_STATION**
 | ID | NAME | STATE | LATITUDE | LOGITUDE | ALTITUDE |
