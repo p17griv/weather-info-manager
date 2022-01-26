@@ -47,7 +47,7 @@ Application displays a window (JFrame) that contains a panel (JPanel) with Card 
 
 ## Installation
 
-Download the [latest release](https://github.com/p17griv/weather-info-manager/releases/tag/v1.0.0) of the executable and follow the provided instructions.
+Download the [latest release](https://github.com/p17griv/weather-info-manager/releases/latest) of the executable and follow the provided instructions.
 
 ## License
 
