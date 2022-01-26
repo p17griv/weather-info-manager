@@ -45,6 +45,9 @@ Application displays a window (JFrame) that contains a panel (JPanel) with Card 
 ![Query 1](https://github.com/p17griv/weather-info-manager/blob/main/img/query1.png)
 ![Query 2](https://github.com/p17griv/weather-info-manager/blob/main/img/query2.png)
 
+## Installation
+
+Download the [latest release](https://github.com/p17griv/weather-info-manager/releases/tag/v1.0.0) of the executable and follow the provided instructions.
 
 ## License
 
