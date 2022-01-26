@@ -40,10 +40,10 @@ The application also displays error messages when connection with the database h
 
 Application displays a window (JFrame) that contains a panel (JPanel) with Card Layout. This panel contains six other panels (cards) which become visible one at the time and contain various components (JLabel, JTextField, JButton, etc.) for the main menu and the queries. Also, app displays pop-up message dialogs (JOptionPane) in order to inform users about errors or the progress of their requests. Finally, system's look and fell is being used to inherit system's style.
 
-![Connect Dialog](https://github.com/p17griv/weather-info-manager/blob/main/img/connect-dialog.png)
-![Main Menu](https://github.com/p17griv/weather-info-manager/blob/main/img/main-menu.png)
-![Query 1](https://github.com/p17griv/weather-info-manager/blob/main/img/query1.png)
-![Query 2](https://github.com/p17griv/weather-info-manager/blob/main/img/query2.png)
+|                             |                             |
+| :-------------------------: | :-------------------------: |
+| ![Connect Dialog](https://github.com/p17griv/weather-info-manager/blob/main/img/connect-dialog.png) | ![Main Menu](https://github.com/p17griv/weather-info-manager/blob/main/img/main-menu.png) |
+| ![Query 1](https://github.com/p17griv/weather-info-manager/blob/main/img/query1.png) | ![Query 2](https://github.com/p17griv/weather-info-manager/blob/main/img/query2.png) |
 
 ## Installation
 
