@@ -20,7 +20,7 @@ The first table contains the names of the meteorological stations, their locatio
 
 Java Database Connectivity (JDBC) API used in order to access the MySQL database server.
 
-This is student project for "Databases II" course of department of Informatics - Ionian University.
+This is a student project for "Databases II" course of department of Informatics - Ionian University.
 
 ## Features
 
